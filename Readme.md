@@ -85,7 +85,7 @@ Released under [GNU](/LICENSE) by [LoverBoy](https://github.com/LoverboyXD) .
 # To Check Codes Click Below Button <br>
 <a href="https://github.com/PsychoBots/Astro-Manager" target="_blank"><img src="https://img.shields.io/badge/Click%20Me_Codes%20Are%20Here-teal.svg?style=for-the-badge&logo=github"></a>
 
-<a
+
 
 ## ~*Thanks For Using Astro-Manager❤️* 
 
